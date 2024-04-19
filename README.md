@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="mahmoud-saeed.webp" alt="Mahmoud Saeed" class="mahmoud">
+ <img src="mahmoud-saeed.webp" alt="Mahmoud Saeed" width="300" height="300" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 0 20px #00aaff, 0 0 40px #00aaff, 0 0 80px #00aaff; animation: neon-glow 1s ease-in-out infinite alternate;">
 
-  <h1 align="center">
+  <h1 align="center" style="margin-top:35">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Mahmoud+Saeed!+😊;" />
 </h1>
 </div>
@@ -76,39 +76,3 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-<style>
-    h1{
-        margin-top:40px;
-    }
-.mahmoud {
-  width:300px;
-  /* height:300px; */
-  padding: 0.8rem;
-  display: block;
-  border: 2px solid #00aaff;
-  outline: 3px solid #00aaff;
-  border-radius: 70% 31% 66% 34% / 21% 65% 33% 80%;
-  box-shadow: 0 0 5px #00aaff, 0 0 10px #00aaff, 0 0 20px #00aaff, 0 0 40px #00aaff;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  animation: morph 6s linear infinite;
-}
-@keyframes morph {
-  0%,
-  100% {
-    border-radius: 41% 59% 72% 33% / 43% 43% 62% 51%;
-  }
-  30% {
-    border-radius: 71% 39% 61% 39% / 61% 38% 62% 39%;
-  }
-  60% {
-    border-radius: 100% 63% 63% 100% / 100% 100% 63% 63%;
-  }
-  80% {
-    border-radius: 70% 32% 68% 36% / 23% 38% 68% 82%;
-  }
-}
-</style>
