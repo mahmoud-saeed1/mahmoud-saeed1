@@ -72,3 +72,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mahmoud-saeed1?cardType=github&theme=highcontrast&preferLogin=true&Ring=FFFEFE)](https://git.io/awesome-stats-card)
+    <br>
+ [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mahmoud_saeed&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
